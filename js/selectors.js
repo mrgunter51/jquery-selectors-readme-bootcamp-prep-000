@@ -10,3 +10,7 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   S('#baby-ninja')
 }
+
+function divSelector(){
+  S('.pics')
+}
